@@ -27,3 +27,13 @@ makes new directory
 
 ### touch <filename> 
 creates a new file with the name filename 
+
+### rm 
+
+
+git status - Tells 
+    
+
+    ### git Statyus
+
+    tell the ststus of your git 
